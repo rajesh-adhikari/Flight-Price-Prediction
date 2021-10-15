@@ -6,7 +6,7 @@ Engineered features from the Departure Time, Date of Journey, to quantify the da
 Optimized multiple Regression models using GridsearchCV to reach the best model.
 Built a client facing API using flask.
 
-#Model Accuracy
+# Model Accuracy
 MAE: 1166.0549385613226
 MSE: 4049730.865131129
 RMSE: 2012.3943115431252
